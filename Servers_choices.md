@@ -31,6 +31,10 @@
 
 `https://www.qingcloud.com`
 
+## 美团云
+
+## UCloud
+
 ##图片存储->又拍&&七牛
 
 ##域名->万网
@@ -41,3 +45,6 @@
 ## BaaS
 
 那么什么是BaaS，后端即服务：Backend as a Service
+
+这些概念的都需要做出来。
+
